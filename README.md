@@ -1,3 +1,1 @@
-WELCOME TO TYPEMNM's REPO!
-
-This Git Repo is for school project.
+# 2025 OpenSource Software (09.18)
